@@ -1,4 +1,20 @@
-git status
-git add .
-git commit -m "message"
-git push -u origin main
+Git repo to Local
+select folder location
+-open termial (cmd)
+-git clone url(git hub repo)
+-git status
+-git add .
+-git commit -m "message"
+-git push -u origin main/master(branch name)
+
+
+
+Local to Git repo
+open with local folder
+-git init
+-git remote add origin url(github repo)
+-git remote show origin (see connect or not)
+-git status
+-git add .
+-git commit -m "message"
+-git push -u origin main/master(branch name)
