@@ -1,0 +1,12 @@
+h1{
+    color: blueviolet;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+}
+
+/*universal selector */
+*{
+    letter-spacing: 20;
+    margin: 0px;
+}
